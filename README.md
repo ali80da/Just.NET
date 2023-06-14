@@ -20,7 +20,7 @@ _
 
 _
 
-# One consistent API :
+# One Consistent API :
 ###### .NET provides a standard set of base class libraries and APIs that are common to all .NET applications.
 
 ###### Each app model can also expose additional APIs that are specific to the operating systems it runs on, or the capabilities it provides. For example, ASP.NET is the cross-platform web framework that provides additional APIs for building web apps that run on Linux or Windows.
@@ -33,7 +33,7 @@ _
 
 _
 
-# Active community and open-source
+# Active  Community And Open-Source
 ##### .NET is open source and under the .NET Foundation. The .NET Foundation is an independent organization to foster open development and collaboration around the .NET ecosystem.
 
 ###### Because .NET is open source, you can join the thousands of developers and companies already contributing to the .NET platform.
@@ -48,11 +48,11 @@ _
 ##### The [Visual Studio Marketplace](https://marketplace.visualstudio.com/?WT.mc_id=dotnet-35129-website) has thousands of editor extensions from Microsoft and others.
 ##### If you prefer to use a different editor, there are .NET command-line tools and plug-ins for many popular editors.
 
-## [Learn about tools for .NET](https://dotnet.microsoft.com/en-us/platform/tools)
+## [Learn About Tools For .NET](https://dotnet.microsoft.com/en-us/platform/tools)
 
 _
 
-# [Why choose .NET?](https://dotnet.microsoft.com/en-us/platform/why-choose-dotnet)
+# [Why Choose .NET?](https://dotnet.microsoft.com/en-us/platform/why-choose-dotnet)
 ##### Find out why customers all over the world, in many different industries, rely on .NET.
 # 
 ----------------
